@@ -1,0 +1,7 @@
+﻿  WindowsProject1.cpp
+D:\Users\bhy18\Desktop\c\WindowsProject1\WindowsProject1\WindowsProject1.cpp(595,44): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\bhy18\Desktop\c\WindowsProject1\WindowsProject1\WindowsProject1.cpp(598,44): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\bhy18\Desktop\c\WindowsProject1\WindowsProject1\WindowsProject1.cpp(721,42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\bhy18\Desktop\c\WindowsProject1\WindowsProject1\WindowsProject1.cpp(808,42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\bhy18\Desktop\c\WindowsProject1\WindowsProject1\WindowsProject1.cpp(811,42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  WindowsProject1.vcxproj -> D:\Users\bhy18\Desktop\c\WindowsProject1\x64\Debug\WindowsProject1.exe
